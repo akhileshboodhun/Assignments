@@ -1,0 +1,21 @@
+Version 1.0:{
+-Added Manual Filename Input.
+-Added Subroutine to Read Assembly File
+-Added Arrays to store data in reserved memory locations(1000)
+-Added Subroutines for each Opcode.
+-Added Subroutine to find and call Opcode subroutines for execution.
+-Added "Accumulator" and "Index Register" output.
+}
+Version 2.0:{
+-Started to write "CMP" Opcode Subroutine and its dependent Opcode Subroutines.
+-Added File Existence Verification.
+}
+Version 3.0:{
+-Added Colors to the terminal.
+-Added File Comparison Function # Commented to debug later #
+-Completed "CMP" Opcode # For Testing #
+}
+Version 4.0:{
+-Fixed "STO" opcode bug. 
+-Fixed File Comparison bug.
+}
